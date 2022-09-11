@@ -5,9 +5,11 @@ have exactly the same value
 
 #it returns True if both data types are equal
 print(10 == 10)
+print(5 == 5)
 
 #it returns False if both data types are different
 print(10 == 5)
+print(6 == 5)
 
 print('------------------')
 
