@@ -1,5 +1,5 @@
 '''
-An conditional statement is used to determine wheter a condition
+An conditional statement is used to determine whether a condition
 is met or not. This time, we'll talk about the if statement, which
 is written using the if keyword and accepts all types of operators:
 arithmetic, relational and logical.
