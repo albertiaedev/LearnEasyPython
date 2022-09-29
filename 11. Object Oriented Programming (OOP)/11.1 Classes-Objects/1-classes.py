@@ -10,7 +10,7 @@ or a "blueprint" for creating objects.
 class Example: #use capital letters to name a class
   var1 = 100
 
-#now we can use the class named MyClass to create objects
+#now we can use the class named Example to create objects
 
 object = Example()
 print(object.var1)
