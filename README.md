@@ -21,6 +21,22 @@ This course is meant to have 12 chapters (or modules), which will be always upda
 11. Object-Oriented Programming (OOP).
 12. Modules.
 
+## Clone this repository
+
+The first thing you need to do is to open your terminal/cmd, access to the directory where you want to keep your project, then copy and paste this code:
+
+### HTTPS
+
+```git clone https://github.com/jesusalberto18/LearnEasyPython.git```
+
+### SSH
+
+```git clone git@github.com:jesusalberto18/LearnEasyPython.git```
+
+And that's it! It creates a local copy of this repository in your machine.
+
+<hr>
+
 I hope you find it useful... and if you like it, please ⭐  
 
 Happy Coding! 👨🏽‍💻
