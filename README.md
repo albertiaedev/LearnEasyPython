@@ -35,6 +35,12 @@ The first thing you need to do is to open your terminal/cmd, access to the direc
 
 And that's it! It creates a local copy of this repository in your machine.
 
+## Donate
+
+<a href="https://www.paypal.com/paypalme/j2al444">
+<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+</a>
+
 <hr>
 
 I hope you find it useful... and if you like it, please ⭐  
