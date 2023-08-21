@@ -21,6 +21,8 @@ This course is meant to have 12 chapters (or modules), which will be always upda
 11. Object-Oriented Programming (OOP).
 12. Modules.
 
+<em>Check ```online_resources.md``` to view the best resources on the web to learn Python!</em> 😄
+
 ## Clone this repository
 
 The first thing you need to do is to open your terminal/cmd, access to the directory where you want to keep your project, then copy and paste this code:
