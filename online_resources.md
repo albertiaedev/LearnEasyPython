@@ -19,7 +19,7 @@
 
 <hr>
 
-2. <a href="https://codecademy.com">Codecademy</a>
+3. <a href="https://codecademy.com">Codecademy</a>
 
 - This is a popular online learning platform that offers a Python course that is beginner-friendly.
 - It is free to start, but you can pay for a premium subscription to get access to more features.
@@ -27,3 +27,10 @@
 - It includes exercises to help you practice what you have learned.
   
 <hr>
+
+4. <a href="https://udemy.com">Udemy</a>
+
+- This is another popular online learning platform that offers a Python course that is taught by an experienced instructor.
+- There are many different courses available, so you can find one that fits your learning style and budget.
+- The courses are typically self-paced, but some offer live instruction.
+- They include exercises to help you practice what you have learned.
