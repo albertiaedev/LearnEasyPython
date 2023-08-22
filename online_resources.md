@@ -16,3 +16,14 @@
 - The tutorials are well-explained and easy to follow.
 - They include exercises to help you practice what you have learned.
 - There is also a community forum where you can ask questions and get help from other learners.
+
+<hr>
+
+2. <a href="https://codecademy.com">Codecademy</a>
+
+- This is a popular online learning platform that offers a Python course that is beginner-friendly.
+- It is free to start, but you can pay for a premium subscription to get access to more features.
+- The course is interactive and gamified, making it fun to learn.
+- It includes exercises to help you practice what you have learned.
+  
+<hr>
