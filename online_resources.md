@@ -59,3 +59,10 @@
 - This is a podcast that interviews Python experts.
 - It is a great way to learn about new Python features and techniques.
 - The interviews are also a good way to get inspired and motivated to learn Python.
+
+<hr>
+
+7. <a href="https://scrapeops.io/web-scraping-playbook/best-web-scraping-discord-servers/">Python Discord Servers</a>
+
+- These are a server where Python learners and developers can connect and help each other.
+- It is a great place to ask questions, get help, and share your projects.
