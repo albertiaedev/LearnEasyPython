@@ -43,3 +43,12 @@
 - It is a paid course, but you can audit it for free.
 - The specialization covers the basics of Python as well as more advanced topics.
 - It includes video lectures, quizzes, and projects.
+
+<hr>
+
+6. <a href="https://https://realpython.com">Real Python</a>
+
+- This website offers in-depth tutorials on Python.
+- The tutorials are written by experienced Python developers and are well-explained.
+- They also include exercises to help you practice what you have learned.
+
