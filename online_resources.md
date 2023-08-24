@@ -34,3 +34,12 @@
 - There are many different courses available, so you can find one that fits your learning style and budget.
 - The courses are typically self-paced, but some offer live instruction.
 - They include exercises to help you practice what you have learned.
+
+<hr>
+
+5. <a href="https://coursera.org/specializations/python">Python for everybody (Coursera)</a>
+
+- Coursera offers a specialization in Python for Everybody taught by Professor Chuck Severance from the University of Michigan.
+- It is a paid course, but you can audit it for free.
+- The specialization covers the basics of Python as well as more advanced topics.
+- It includes video lectures, quizzes, and projects.
