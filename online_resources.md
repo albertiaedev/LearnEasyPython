@@ -46,9 +46,16 @@
 
 <hr>
 
-6. <a href="https://https://realpython.com">Real Python</a>
+6. <a href="https://realpython.com">Real Python</a>
 
 - This website offers in-depth tutorials on Python.
 - The tutorials are written by experienced Python developers and are well-explained.
 - They also include exercises to help you practice what you have learned.
 
+<hr>
+
+7. <a href="https://talkpython.fm/">Talk Python</a>
+
+- This is a podcast that interviews Python experts.
+- It is a great way to learn about new Python features and techniques.
+- The interviews are also a good way to get inspired and motivated to learn Python.
