@@ -62,14 +62,21 @@
 
 <hr>
 
-8. <a href="https://w3schools.com/python/">Python Tutorial (W3schools)</a>
+8. <a href="https://scrapeops.io/web-scraping-playbook/best-web-scraping-discord-servers/">Python Discord Servers</a>
 
 - These are a server where Python learners and developers can connect and help each other.
 - It is a great place to ask questions, get help, and share your projects.
 
 <hr>
 
-9. <a href="https://scrapeops.io/web-scraping-playbook/best-web-scraping-discord-servers/">Python Discord Servers</a>
+9. <a href="https://w3schools.com/python/">Python Tutorial (W3schools)</a>
 
 - This is a complete tutorial that includes real examples of Python, exercises/quizzes to help you develop the necessary skills in this language, a deep list of references for further learning of the language. 
+- It gives you the main tools you need to master this language.
+
+<hr>
+
+10. <a href="https://www.geeksforgeeks.org/python-programming-language/">Python Tutorial (Geek4Geeks)</a>
+
+- This is a complete tutorial that includes real examples of Python, Django, OOP, Data Analysis, Machine Learning & more. 
 - It gives you the main tools you need to master this language.
