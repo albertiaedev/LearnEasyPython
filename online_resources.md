@@ -64,7 +64,7 @@
 
 8. <a href="https://scrapeops.io/web-scraping-playbook/best-web-scraping-discord-servers/">Python Discord Servers</a>
 
-- These are a server where Python learners and developers can connect and help each other.
+- This is a list of servers where Python learners and developers can connect and help each other.
 - It is a great place to ask questions, get help, and share your projects.
 
 <hr>
