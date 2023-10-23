@@ -6,7 +6,7 @@ This is an open source and friendly course where you'll learn the principals of 
 
 It is one of the hottest 🔥, sexiest 💥 and most demanded 💪🏽  programming languages right now... Surely learning it is super easy, because it has a simple syntax 🈂️  and there are plenty of resources out there in the web 🌐  and yet, here it's another free resource so why not take it? It's free!!! 💸  
 
-This course is meant to have 12 chapters (or modules), which will be always updated:
+This course is meant to have 13 chapters (or modules), which will be always updated:
 
 1. Variables.
 2. Data Types.
@@ -20,6 +20,7 @@ This course is meant to have 12 chapters (or modules), which will be always upda
 10. Functions. 
 11. Object-Oriented Programming (OOP).
 12. Modules.
+13. Design Patterns.
 
 <em>Check ```online_resources.md``` to view the best resources on the web to learn Python!</em> 😄
 
