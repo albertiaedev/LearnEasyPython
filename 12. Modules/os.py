@@ -79,3 +79,11 @@ import os
 mtime = os.path.getmtime("myfile.txt")
 
 print(mtime)
+
+
+# Listing the contents of a directory
+import os
+
+contents = os.listdir("/path/to/directory")
+
+print(contents)
