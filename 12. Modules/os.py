@@ -42,3 +42,12 @@ contents = f.read() #read the contents of the file
 
 f.close() #close the file
 
+
+# Writing to a file
+import os
+
+f = open("myfile.txt", "w")
+
+f.write("Hello, world!") #write to the file
+
+f.close() #close the file
