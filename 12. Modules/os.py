@@ -57,3 +57,9 @@ f.close() #close the file
 import os
 
 os.rename("myfile.txt", "new_name.txt")
+
+
+# Deleting a file
+import os
+
+os.remove("myfile.txt")
