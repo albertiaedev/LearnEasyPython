@@ -63,3 +63,11 @@ os.rename("myfile.txt", "new_name.txt")
 import os
 
 os.remove("myfile.txt")
+
+
+# Getting the size of a file
+import os
+
+size = os.path.getsize("myfile.txt")
+
+print(size)
