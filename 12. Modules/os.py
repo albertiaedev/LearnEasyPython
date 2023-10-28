@@ -51,3 +51,9 @@ f = open("myfile.txt", "w")
 f.write("Hello, world!") #write to the file
 
 f.close() #close the file
+
+
+# Renaming a file
+import os
+
+os.rename("myfile.txt", "new_name.txt")
