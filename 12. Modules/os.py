@@ -16,3 +16,9 @@ os.chdir("/path/to/new/directory")
 import os
 
 os.mkdir("new_directory")
+
+
+# Removing a directory
+import os
+
+os.rmdir("new_directory")
