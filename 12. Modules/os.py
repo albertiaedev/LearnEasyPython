@@ -71,3 +71,11 @@ import os
 size = os.path.getsize("myfile.txt")
 
 print(size)
+
+
+# Getting the modification time of a file
+import os
+
+mtime = os.path.getmtime("myfile.txt")
+
+print(mtime)
