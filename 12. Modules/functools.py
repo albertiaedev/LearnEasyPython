@@ -1,7 +1,12 @@
-# The _datetime module provides classes and functions for working with dates and times.
+# The _functools module provides classes and functions for working with functions, such as caching and partial application.
 
-import _datetime
+import _functools
 
-now = _datetime.datetime.now()
+@functools.lru_cache()
+def factorial(n):
+    if n == 0:
+        return 1
+    else:
+        return n * factorial(n - 1)
 
-print(now)
+print(factorial(10))
