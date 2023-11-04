@@ -22,3 +22,6 @@ conn.sendall(data)
 
 # Close the connection
 conn.close()
+
+# Close the socket
+sock.close()
