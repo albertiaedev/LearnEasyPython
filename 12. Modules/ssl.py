@@ -8,3 +8,6 @@ socket = _ssl.SSLContext().wrap_socket(socket.socket())
 
 # Connect to a server
 socket.connect(("example.com", 443))
+
+# Send data to the server
+socket.sendall("GET / HTTP/1.1\r\nHost: example.com\r\n\r\n".encode())
