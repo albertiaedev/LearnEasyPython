@@ -16,3 +16,6 @@ conn, addr = sock.accept()
 
 # Receive data from the client
 data = conn.recv(1024)
+
+# Send data back to the client
+conn.sendall(data)
