@@ -13,3 +13,6 @@ sock.listen(10)
 
 # Accept an incoming connection
 conn, addr = sock.accept()
+
+# Receive data from the client
+data = conn.recv(1024)
