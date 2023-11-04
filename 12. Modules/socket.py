@@ -7,3 +7,6 @@ sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 # Bind the socket to a port
 sock.bind(("localhost", 8080))
+
+# Listen for incoming connections
+sock.listen(10)
