@@ -10,3 +10,6 @@ sock.bind(("localhost", 8080))
 
 # Listen for incoming connections
 sock.listen(10)
+
+# Accept an incoming connection
+conn, addr = sock.accept()
