@@ -5,3 +5,6 @@ import _ssl
 
 # Create a secure socket
 socket = _ssl.SSLContext().wrap_socket(socket.socket())
+
+# Connect to a server
+socket.connect(("example.com", 443))
