@@ -14,3 +14,6 @@ socket.sendall("GET / HTTP/1.1\r\nHost: example.com\r\n\r\n".encode())
 
 # Receive data from the server
 response = socket.recv(1024)
+
+# Print the response
+print(response.decode())
