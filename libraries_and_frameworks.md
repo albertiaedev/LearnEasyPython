@@ -29,3 +29,11 @@
 3. <a href="https://fastapi.tiangolo.com">FastAPI</a>
 4. <a href="https://trypyramid.com">Pyramid</a>
 5. <a href="https://cherrypy.dev">CherryPy</a>
+
+<hr>
+
+## GUI:
+
+1. <a href="https://.com">Tkinter</a>
+2. <a href="https://.com">PyQT</a>	
+3. <a href="https://.com">Kivy</a>
