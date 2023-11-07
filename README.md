@@ -22,6 +22,8 @@ This course is meant to have 13 chapters (or modules), which will be always upda
 12. Modules.
 13. Design Patterns.
 
+<em>Check ```libraries_and_frameworks.md``` to get more info about the most important libraries and frameworks in Python, grouped by its usage!</em> 😄
+
 <em>Check ```online_resources.md``` to view the best resources on the web to learn Python!</em> 😄
 
 ## Clone this repository
