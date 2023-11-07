@@ -19,4 +19,10 @@
 2. <a href="https://tensorflow.org">TensorFlow</a>
 3. <a href="https://pytorch.org">PyTorch</a>
 4. <a href="https://opencv.org">OpenCV</a>
+
+<hr>
+
+## Web development:
+
+1. <a href="https://djangoproject.com">Django</a>
 	
