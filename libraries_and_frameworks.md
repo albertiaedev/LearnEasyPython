@@ -25,4 +25,5 @@
 ## Web development:
 
 1. <a href="https://djangoproject.com">Django</a>
-	
+2. <a href="https://flask.palletsprojects.com">Flask</a>	
+3. <a href="https://fastapi.tiangolo.com">FastAPI</a>
