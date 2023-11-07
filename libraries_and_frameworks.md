@@ -37,3 +37,10 @@
 1. <a href="https://docs.python.org/es/3/library/tkinter.html">Tkinter</a>
 2. <a href="https://wiki.python.org/moin/PyQt">PyQT</a>	
 3. <a href="https://kivy.org">Kivy</a>
+
+<hr>
+
+## Game development:
+
+1. <a href="https://pygame.org">Pygame</a>
+2. <a href="https://pandas3d.org">Pandas3D</a>	
