@@ -27,3 +27,5 @@
 1. <a href="https://djangoproject.com">Django</a>
 2. <a href="https://flask.palletsprojects.com">Flask</a>	
 3. <a href="https://fastapi.tiangolo.com">FastAPI</a>
+4. <a href="https://trypyramid.com">Pyramid</a>
+5. <a href="https://cherrypy.dev">CherryPy</a>
