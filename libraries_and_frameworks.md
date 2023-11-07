@@ -34,6 +34,6 @@
 
 ## GUI:
 
-1. <a href="https://.com">Tkinter</a>
-2. <a href="https://.com">PyQT</a>	
-3. <a href="https://.com">Kivy</a>
+1. <a href="https://docs.python.org/es/3/library/tkinter.html">Tkinter</a>
+2. <a href="https://wiki.python.org/moin/PyQt">PyQT</a>	
+3. <a href="https://kivy.org">Kivy</a>
