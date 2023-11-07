@@ -43,4 +43,12 @@
 ## Game development:
 
 1. <a href="https://pygame.org">Pygame</a>
-2. <a href="https://pandas3d.org">Pandas3D</a>	
+2. <a href="https://pandas3d.org">Pandas3D</a>
+
+<hr>
+
+## Web scraping and automation:
+
+1. <a href="https://https://www.crummy.com/software/BeautifulSoup/">BeautifulSoup</a>
+2. <a href="https://scrapy.org">Scrapy</a>	
+3. <a href="https://selenium.dev">Selenium</a>	
