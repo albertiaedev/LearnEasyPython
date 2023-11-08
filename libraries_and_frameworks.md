@@ -51,4 +51,11 @@
 
 1. <a href="https://https://www.crummy.com/software/BeautifulSoup/">BeautifulSoup</a>
 2. <a href="https://scrapy.org">Scrapy</a>	
-3. <a href="https://selenium.dev">Selenium</a>	
+3. <a href="https://selenium.dev">Selenium</a>
+
+<hr>
+
+## Networking:
+
+1. <a href="https://pypi.org/project/requests/">Requests</a>
+2. <a href="https://docs.python.org/3/library/asyncio.html">Asyncio</a>	
