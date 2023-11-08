@@ -58,4 +58,11 @@
 ## Networking:
 
 1. <a href="https://pypi.org/project/requests/">Requests</a>
-2. <a href="https://docs.python.org/3/library/asyncio.html">Asyncio</a>	
+2. <a href="https://docs.python.org/3/library/asyncio.html">Asyncio</a>
+
+<hr>
+
+## Databases:
+
+1. <a href="https://www.sqlalchemy.org/">SQLAlchemy</a>
+2. <a href="http://docs.peewee-orm.com/en/latest/">Peewee</a>	
