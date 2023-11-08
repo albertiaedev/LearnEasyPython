@@ -65,4 +65,11 @@
 ## Databases:
 
 1. <a href="https://www.sqlalchemy.org/">SQLAlchemy</a>
-2. <a href="http://docs.peewee-orm.com/en/latest/">Peewee</a>	
+2. <a href="http://docs.peewee-orm.com/en/latest/">Peewee</a>
+
+<hr>
+
+## Testing:
+
+1. <a href="https://docs.pytest.org/en/7.4.x/">Pytest</a>
+2. <a href="https://docs.python.org/3/library/unittest.html">Unittest</a>	
