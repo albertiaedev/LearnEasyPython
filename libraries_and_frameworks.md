@@ -13,6 +13,7 @@
 1. <a href="https://matplotlib.org">Matplotlib</a>
 2. <a href="https://seaborn.pydata.org/">Seaborn</a>
 3. <a href="https://plotly.com">Plotly</a>
+4. <a href="https://bokeh.org">Bokeh</a>
 
 ### Machine learning and deep learning
 
