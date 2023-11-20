@@ -19,6 +19,7 @@
 2. <a href="https://tensorflow.org">TensorFlow</a>
 3. <a href="https://pytorch.org">PyTorch</a>
 4. <a href="https://opencv.org">OpenCV</a>
+5. <a href="https://keras.io">Keras</a>
 
 <hr>
 
